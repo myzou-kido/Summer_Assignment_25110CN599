@@ -23,7 +23,7 @@ int main(){
     if(str1==str2){
         cout<<"it is an anagram string"<<endl;
     }else{
-        cout<<"it is an anagram string"<<endl;
+        cout<<"it is not an anagram string"<<endl;
     }
 
 
